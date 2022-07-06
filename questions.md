@@ -10,7 +10,7 @@
     <li> Implemented retry and backoff. </li>
     <li> Created Mock WebCaller for Testing. </li>
     <li> Implemented Tests to verify solution.</li>
-    <li> Added more error handling. <li>
+    <li> Added more error handling. </li>
 </ol>
 
 
